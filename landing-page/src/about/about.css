@@ -1,0 +1,40 @@
+#about{
+    margin: auto;
+    width: 70%;
+}
+
+div.container{
+    background-color: transparent;
+}
+
+.about-item{
+    display: flex;
+    margin-bottom: 35px;
+}
+
+.mission-d{
+margin-right: 25px;
+}
+
+.misionImg{
+    border-radius: 100px;
+}
+
+
+h2{
+    font-family: 'Arimo', sans-serif;
+    color: #1E266D;
+}
+
+p{
+    color: #445781;
+    font-family: 'Arimo', sans-serif;
+    text-align: left;
+}
+
+.story-p{
+    margin-left: 25px;
+}
+
+
+
